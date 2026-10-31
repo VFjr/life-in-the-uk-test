@@ -62,7 +62,7 @@ Life in the United Kingdom (3rd edition)
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
-| 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
+| 1918                | end of WW1 at 11am on 11 November | Remembrance Day silence is at 11am. Women over 30 can also vote |
 | 1922                | Ireland becomes 2 countries / BBC radio | Northern Ireland is 6 counties and stays in the UK. The rest is the Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
 | 1929                | Great Depression | |
@@ -94,8 +94,8 @@ Life in the United Kingdom (3rd edition)
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
-| 2016                | Brexit Referendum | |
-| 2020                | UK left the European Union | |
+| 2016                | Brexit Referendum | 23 June |
+| 2020                | UK left the European Union | 11pm GMT on 31 January. The transition ended at 11pm on 31 December |
 
 ### History facts ###
 
@@ -429,7 +429,7 @@ Devolved administrations
 ## Government and politics facts ##
 
 
-* When you arrive at the polling station, the staff will ask for your name and address. In Northern Ireland you will also have to show photographic identification. You will then get your ballot paper, which you take to a polling booth to fill in privately
+* Polling stations are open from **7am to 10pm**. Staff ask for your name and address. In Northern Ireland you will also have to show photographic identification. You then get your ballot paper, which you take to a polling booth to fill in privately
 * The Prime Minister appoints about **20** senior MPs to become ministers in charge of departments:  
     * **Chancellor of the Exchequer** – responsible for the economy
     * **Home Secretary** – responsible for crime, policing and immigration
