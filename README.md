@@ -9,7 +9,7 @@ Life in the United Kingdom (3rd edition)
 | 6,000yrs          | First farmers | come to Britain from South-East Europe |
 | 4,000yrs          | Bronze Age | then becomes Iron Age |
 | 55BC                  | Failed Roman invasion | Julius Caesar attempts first Roman led invasion but fails |
-| 43AD                 | Successful Roman invasion | Emperor Claudius succesfully invaded Britain |
+| 43AD                 | Successful Roman invasion | Emperor Claudius successfully invaded Britain |
 | 410                  | Romans end | Roman army leaves to defend Rome and never returns |
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
@@ -18,7 +18,7 @@ Life in the United Kingdom (3rd edition)
 | 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
 | 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
-| 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
+| 1455                | start of civil war | houses Lancaster (red rose) and York (white rose) |
 | 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of the Middle Ages |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
@@ -43,7 +43,7 @@ Life in the United Kingdom (3rd edition)
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
 | 1714                | King George I | a german becomes king. His English was poor |
 | 1721                | Robert Walpole | first Prime Minister |
-| 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
+| 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but loses at the battle of Culloden, after which Highland Clearances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
 | 1789                | Revolution in France | the new French government opposed Britain's monarchy. Napoleon comes later |
@@ -86,8 +86,8 @@ Life in the United Kingdom (3rd edition)
 | 1951-64          | Conservative Government | Winston Churchill returns as PM in 1951 |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
-| 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
-| 1972                | Northen Ireland parliament was suspended | |
+| 1969                | The Troubles | in Northern Ireland, , 3000 people died those years, women and men can vote at 18 |
+| 1972                | Northern Ireland parliament was suspended | |
 | 1973                | UK joins EEC | |
 | 1979-90            | Margaret Thatcher | first woman PM. Privatised state industries and limited trade-union powers |
 | 1982                | Falklands | Argentina invaded. A British task force took the islands back |
@@ -96,7 +96,7 @@ Life in the United Kingdom (3rd edition)
 | 1990-97            | John Major | Conservative PM after Margaret Thatcher. Helped start the Northern Ireland peace process |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
 | 1998                | Good Friday Agreement | peace agreement for Northern Ireland |
-| 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
+| 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their members. | |
 | 2007                | Gordon Brown | becomes Prime Minister after Tony Blair |
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
@@ -161,7 +161,7 @@ Life in the United Kingdom (3rd edition)
 | R. A. Butler | *The Butler Act* (1944), free secondary education in England and Wales | 1902-82 |
 | Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
 | John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
-| Sir Rober Watson-Watt | develops **radar** 1935 | 1892-1973 |
+| Sir Robert Watson-Watt | develops **radar** 1935 | 1892-1973 |
 | Sir Bernard Lovell | astronomy discoveries and build a radio telescope at Jodrell Bank | 1913-2012 |
 | Alan Turing | **Turing Machine** | 1912-54 |
 | John Macleod | co-discoverer of **insulin** to treat diabetes | 1876-1935 |
@@ -186,10 +186,10 @@ Life in the United Kingdom (3rd edition)
 
 | Name | Achievement |
 | --- | --- |
-| Sir Roger Bannister | first men to rin a 1 mile in less than 4 minutes |
+| Sir Roger Bannister | first man to run a 1 mile in less than 4 minutes |
 | Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
 | Bobby Moore | captain the English football team winning the 1966 world cup |
-| Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
+| Sir Ian Botham | captain of English Cricket team and winner of cricket records |
 | Jayne Torvill and Christopher Dean | won gold medal in ice dancing at the 1984 Olympics |
 | Sir Steve Redgrave | won gold medals in rowing in 5 consecutive Olympics |
 | Baroness Tanni Grey-Thompson | wheelchair records, 11 gold medals |
@@ -220,7 +220,7 @@ Life in the United Kingdom (3rd edition)
 | George Frederick Handel | german that became english, composer for George I, also wrote an oratorio *Messiah* to be sung by choirs usually at Easter |
 | Gustav Holst | composer, wrote *The Planets* |
 | Sir Edward Elgar | *Pomp And Circumstance Marches*, *March N1*, played the last night at the *Proms* at the Royal Albert Hall |
-| Ralph Vaughan Williams | wrote music for orchestras an choirs, influenced by traditional English folk music |
+| Ralph Vaughan Williams | wrote music for orchestras and choirs, influenced by traditional English folk music |
 | Sir William Walton | wrote music for George VI and Elizabeth II, wrote from films scores to opera, best known for *Facade* that became a ballet and *Belshazzar's Feast*, intended to be sung by a large choir |
 | Benjamin Britten | operas, *Peter Grimes* and *Billy Budd*, *A young Person's Guide to the Orchestra* |
 
@@ -236,7 +236,7 @@ Life in the United Kingdom (3rd edition)
 | Sir John Lavery | Northern Irish portrait painter, painted the Royal Family |
 | Henry Moore | English sculptor , large bronze abstract sculptures |
 | John Petts | welsh artist known for engravings and stained glass |
-| Lucian Freud | German born British artist best know for his portraits |
+| Lucian Freud | German born British artist best known for his portraits |
 | David Hockney | important contributor to the *Pop Art* movement of the 1960s |
 
 ### Architecture ###
@@ -257,7 +257,7 @@ Life in the United Kingdom (3rd edition)
 
 | Name | Achievement |
 | --- | --- |
-| Thomas Chippendale | designed forniture in the 18th century |
+| Thomas Chippendale | designed furniture in the 18th century |
 | Clarice Cliff | designed Art Deco ceramics |
 | Sir Terence Conran | a 20th century interior designer |
 | Mary Quant | leading fashion designer |
@@ -279,7 +279,7 @@ Life in the United Kingdom (3rd edition)
 | Charles Dickens | wrote very famous novels like *Oliver Twist* and *Great Expectations* | 
 | Robert Louis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
 | Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
-| Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about *Sherlock Holmes* |
+| Sir Arthur Conan Doyle | Scottish doctor and writer best known for stories about *Sherlock Holmes* |
 | Evelyn Waugh | wrote satirical novels including *Decline and Fall* and *Scoop*, *Brideshead Revisited* |
 | Sir Kingsley Amis | English novelist and poet, wrote more than 20 novels, *Lucky Jim* |
 | Graham Greene | wrote novels influenced by religious beliefs, *The Heart of the Matter*, *The Honorary Consul*, *Brighton Rock*, *Our Man in Havana* |
@@ -287,7 +287,7 @@ Life in the United Kingdom (3rd edition)
 | Ian McEwan | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
-| - | *BeoWulf* Anglo-Saxon poem |
+| - | *Beowulf* Anglo-Saxon poem |
 | Geoffrey Chaucer | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
 | John Milton | protestant poems inspired by religious views, *Paradise Lost* |
 | William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
@@ -317,9 +317,9 @@ Life in the United Kingdom (3rd edition)
 | David Lean | directed *Brief encounter* and *Lawrence of Arabia* |
 | Carol Reed | directed *The Third Man* |
 | Frank Launder |  directed *The Bells of St Trinian's* |
-| Ken Russel | directed *Women in Love* |
+| Ken Russell | directed *Women in Love* |
 | Nicolas Roeg | *Don't Look Now* |
-| Hugh Hudson | directed *Chariots of FIre* |
+| Hugh Hudson | directed *Chariots of Fire* |
 | Roland Joffe | directed *The Killing Fields* |
 | Mike Newell | directed *Four Weddings and a Funeral* |
 | Kevin MacDonald | directed *Touching the void* |
@@ -345,16 +345,16 @@ Life in the United Kingdom (3rd edition)
 ### Religion facts ###
 
 * Protestant Christian groups are: Baptists Methodists,  **Presbyterians(Scotland)** and Quakers
-* The Church of England is known as the **Episcopal** Curch in USA and Scotland
+* The Church of England is known as the **Episcopal** Church in USA and Scotland
 
 ## Countries characteristics ##
 
 | Country | Population | Day | Saint | Flower | Food | Capital |
 | --- | --- | --- | --- | --- | --- | --- |
 | Wales | 5% | 1st March | St David| Daffodil | welsh cakes (flour dried fruits and spices) | Cardiff |
-| North Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) | Belfast |
+| Northern Ireland | <3% | 17th March | St Patrick | Shamrock | Ulster fry (bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread) | Belfast |
 | England | 84% | 23rd April | St George | Rose | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips | London |
-| Scotland | 8% | 30th November | St Andrew | Thisle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | Edinburg |
+| Scotland | 8% | 30th November | St Andrew | Thistle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | Edinburgh |
 
 ### Festivals ###
 
@@ -382,7 +382,7 @@ Life in the United Kingdom (3rd edition)
 | Name |  Characteristic |
 | --- | --- |
 | Vindolanda | Roman fort near Hadrian's Wall |
-| Housesteads | part of Hadrian Wall |
+| Housesteads | part of Hadrian's Wall |
 | Bodnant Garden | Wales |
 | Millennium Stadium | Cardiff | 
 | Maiden Castle | Dorset - Iron Age hill fort |
