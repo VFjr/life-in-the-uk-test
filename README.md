@@ -90,6 +90,7 @@ Life in the United Kingdom (3rd edition)
 | 1973                | UK joins EEC | |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
+| 1990-97            | John Major | Conservative PM after Margaret Thatcher. Helped start the Northern Ireland peace process |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
 | 2009                | Britain leaves Iraq | |
@@ -169,6 +170,7 @@ Life in the United Kingdom (3rd edition)
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
 | Mary Peters | born in Manchester, moved to Northern Ireland as a child, won pentathlon Olympic gold in 1972 | 1939- |
 | Margaret Thatcher | Conservative MP in 1959, became first woman PM in 1979, worked close with Ronald Regan and helped end Cold War | 1925-2013 |
+| John Major | Conservative PM after Thatcher (1990-97). Helped start the Northern Ireland peace process | 1943- |
 | Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
 | James Cook | maps the coast of Australia |
 | George and Robert Stephenson | pioneered the railway engine |
