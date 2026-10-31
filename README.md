@@ -35,7 +35,7 @@ Life in the United Kingdom (3rd edition)
 | _1679_            | Habeas Corpus | you must present the person in court |
 | _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
 | 1689                | Glorious Revolution | William of Orange invades England | 
-| _1690_            | Battle of Byone | James flees to France with Jacobites supporters |
+| 1690                | Battle of the Boyne | Protestant William III (Orange) defeats Catholic James II in Ireland, he fled to France again |
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
@@ -126,8 +126,8 @@ Life in the United Kingdom (3rd edition)
 | Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
 | Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
-| James II | brother of CharlesII he is VII of Scotland, favour Catholics | - |
-| William of Orange | husband of Mary elder of the King, invades England defeats James that flees to France, Bills of Rights | - |
+| James II | brother of Charles II, he is VII of Scotland, favours Catholics | - |
+| William of Orange | husband of Mary, elder daughter of the king, invades England, defeats James II at the Battle of the Boyne, Bill of Rights | - |
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
