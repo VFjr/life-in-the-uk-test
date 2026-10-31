@@ -187,7 +187,16 @@ def parse(text: str) -> str:
 
 
 STYLE = """
-@page { size: A4; margin: 8mm 7mm 9mm; }
+@page {
+  size: A4;
+  margin: 8mm 7mm 12mm;
+  @bottom-right {
+    content: counter(page);
+    font-family: "Liberation Sans", "Nimbus Sans", Arial, sans-serif;
+    font-size: 8pt;
+    color: #161616;
+  }
+}
 * { box-sizing: border-box; }
 html { color-scheme: light; background: #fff; font: 8pt/1.22 "Liberation Sans", "Nimbus Sans", Arial, sans-serif; color: #161616; }
 body { margin: 0; background: #fff; columns: 2; column-gap: 5mm; }
