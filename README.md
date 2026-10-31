@@ -14,68 +14,75 @@ Life in the United Kingdom (3rd edition)
 | 789                  | Vikings | came from Norway and Denmark, defeated by King Alfred the Great |
 | 1066                | Norman Conquest | William (Duke of Normandy) the Conqueror wins Battle of Hastings and invades Britain |
 | 1215                | Magna Carta | The King is subject to the Law | 
-| 1284                | Statute of Rhuddlan | Kind Edward I annexes Wales |
+| 1284                | Statute of Rhuddlan | King Edward I annexes Wales |
 | 1314                | Battle of Bannockburn | Robert the Bruce (scots) wins |
 | 1348                | Black Death | kills 1/3 of population. After which new class "the gentry" appeared, owners of large areas of land  |
 | 1415                | Battle of Agincourt | Henry V wins during the 100 years war against France |
 | 1455                | start of civil war | houses Lanacaster (red rose) and York (white rose) |
-| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of Middle Ages, start of the Reformation |
+| 1485                | End War of the Roses | Battle of Bosworth, Lancaster wins over York, Henry VII Tudor king, end of the Middle Ages |
 | 1560                | Scottish abolish the Pope | |
 | 1588                | Spanish Armada | Elizabeth I defeats spanish invasion to convert to Catholicism |
 | 1603                | James I | End of the Tudor period, James VI of Scotland becomes king |
 | 1605                | Guy Fawkes | with catholics tries to bomb the Parliament to kill the protestant king on 5th of November |
 | 1642                | Civil war | after Charles I asked Parliament for money, Cavaliers(king) and Roundheads(parliament) |
-| 1646                | End of Civil war | Battle of Marston Moor (also Battle of Naseby) where the king's army is defeated |
+| 1644                | Battle of Marston Moor | king's army is defeated |
+| 1645                | Battle of Naseby | king's army is defeated |
+| 1646                | End of the first Civil War | |
 | 1649                | Britain republic | after Charles I is executed |
-| 1656                | fist Jews in England | since the Middle Ages |
+| 1656                | first Jews in England | since the Middle Ages |
 | 1658                | Lord Protector Oliver Cromwell dies | |
-| 1660                | Charles II comes back to be king | (he hid in an oak tree after defeated in Battle of Dunbar in Worcester), ends of 11 years of republic, The Restoration |
+| 1660                | Charles II comes back to be king | hid in an oak tree after defeat at the Battle of Worcester (1651). Ends 11 years of republic, The Restoration |
 | 1665                | Plague | |
 | 1666                | Great Fire | |
 | _1679_            | Habeas Corpus | you must present the person in court |
 | _1685_            | James II | was James VII of Scotland, becomes king after Charles II dies |
-| 1689                | Glorious Revolution | William of Orange invades England | 
-| 1690                | Battle of the Boyne | Protestant William III (Orange) defeats Catholic James II in Ireland, he fled to France again |
+| 1688                | Glorious Revolution | William of Orange invades England |
 | 1689                | Bill of Rights | more control on the King, constitutional monarchy |
+| 1690                | Battle of the Boyne | Protestant William III (Orange) defeats Catholic James II in Ireland. James flees to France again |
 | 1695                | Newspaper | can operate without government licence |
 | 1707                | Act of Union | Kingdom of Great Britain is created joining Scotland |
-| 1714                | King George I | a german is king, because of his poor english elects Robert Walpole as first Prime Minister |
+| 1714                | King George I | a german becomes king. His English was poor |
+| 1721                | Robert Walpole | first Prime Minister |
 | 1745-46           | Bonnie Prince Charlie | tries to get the throne with scots' help but looses at the battle of Culloden, after which Highland Cleareances |
 | 1776                | American colonies independence | 13 colonies declare independence from UK | 
 | 1783                | Britain recognise independence | |
-| _1789_            | Revolution in France | Napoleon starts war |
+| 1789                | Revolution in France | the new French government opposed Britain's monarchy. Napoleon comes later |
 | _1801_            | Ireland unifies with UK | Union Flag |
 | 1805                | Battle of Trafalgar | Britain navy defeats spanish and france with admiral Nelson |
-| 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon | 
-| 1833                | Emancipation Act | End of Slavery | 
+| 1807                | Slave trade banned | illegal to trade slaves in British ships or from British ports |
+| 1815                | Battle of Waterloo | Duke of Wellington defeats Napoleon |
+| 1833                | Emancipation Act | slavery abolished in the British Empire | 
 | 1837                | Queen Victoria | at the age of 18 will rule for 64 years Victorian age |
 | 1840                | Punch Magazine | satirical magazine |
+| 1840s              | Irish famine | potato crop failed. About 1 million people died |
 | 1846                | Abolishment of Corn Laws | |
 | _1851_            | Great Exhibition | in Hyde Park, Crystal Palace |
 | _1853-56_      | Crimean Wars | Britain, France and Turkey fight Russia. First conflict that was reported on with photographs. |
-| _1861_            | Ireland famine | |
 | _1899-1902_   | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
 | 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
 | 1918                | end of the WW1 on 11th of November, also women can vote at the age of 30 |
-| 1922                | Ireland becomes 2 countries / BBC radio | 6 protestant countries the rest is Irish Free State |
+| 1922                | Ireland becomes 2 countries / BBC radio | Northern Ireland is 6 counties and stays in the UK. The rest is the Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
 | 1929                | Great Depression | |
-| 1930s              | Touring Machine | |
+| 1930s              | Turing Machine | Alan Turing |
 | 1932                | invention of TV | by scotsman John Logie Baird |
 | 1935                | invention of Radar | by Sir Robert Watson-Watt |
 | 1936                | BBC first TV service | |
 | 1939                | WW2 | Germany invades Poland |
-| 1940                | Battle of Britain | aerial battle to fight "The Blitz" of german bombing UK |
-| _1940-44_     | The Dunkirk Spirit | evacuation of British and French troops as France falls, rescuing 300,000 people |
+| 1940                | Dunkirk | evacuation of about 300,000 British and French troops as France falls. The "Dunkirk spirit" |
+| 1940                | Battle of Britain | RAF defeats the German air force and prevents an invasion |
+| 1940                | The Blitz | German bombing of British cities |
+| 1942                | Beveridge Report | Social Insurance and Allied Services, basis of the welfare state |
+| 1944                | Butler Act | free secondary education in England and Wales |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
 | 1945                | end of WW2 | German defeat, atom bomb in Japan|
 | 1945                | Labour Government | Clement Attlee is PM, nationalisation of industries and strong welfare |
 | 1947                | colonies independent | Britain give independence to 9 countries, including India, Pakistan and Ceylon(Sri Lanka) |
 | 1948                | NHS | by minister Aneurin (Nye) Bevan |
-| 1949                | Republic of Ireland | |C
-| 1951-64          | Conservative Government | probably in this period Beveridge report (Social Insurance and Allied Services)  and Butler with free secondary education |
+| 1949                | Republic of Ireland | |
+| 1951-64          | Conservative Government | Winston Churchill returns as PM in 1951 |
 | 1957                | EEC | European Economic Community |
 | 1959                | Margaret Thatcher | is MP, becomes leader of opposition in 1975 |
 | 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
@@ -107,13 +114,13 @@ Life in the United Kingdom (3rd edition)
 
 | Name | What | Period |
 | --- | --- | --- |
-| William (Duke of Normandy) | Defeats saxon King Harold, **Doomsday Book** | 1066 |
+| William (Duke of Normandy) | Defeats saxon King Harold, **Domesday Book** | 1066 |
 | King John | **Magna Carta** | 1215 |
-| Kind Edward I | **Statute of Rhuddlan** | 1284 |
+| King Edward I | **Statute of Rhuddlan** | 1284 |
 | Robert The Bruce | defeats english Battle of Bannockburn | 1314 |
 | King Henry V | beats French in Battle of Agincourt | 1415 |
 | Henry Tudor VII | wins War of the Roses | 1485 |
-| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Perr) | 1509-47 |
+| Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Parr) | 1509-47 |
 | Edward VI | strongly protestant, "Book of Common Prayer" | - |
 | Bloody Mary | daughter of Catherine of Aragon |
 | Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism | -1603 |
@@ -127,25 +134,25 @@ Life in the United Kingdom (3rd edition)
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
 | Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
 | James II | brother of Charles II, he is VII of Scotland, favours Catholics | - |
-| William of Orange | husband of Mary, elder daughter of the king, invades England, defeats James II at the Battle of the Boyne, Bill of Rights | - |
+| William of Orange | husband of Mary, elder daughter of James II, invades England in 1688, defeats James II at the Battle of the Boyne, Bill of Rights | - |
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
 | Robert Burns | scottish poet writes Auld Lang Syne (sang for new year) | 1759-96 |
 | Richard Arkwright | efficient running factories | 1731-92 |
-| James Watt | Steam power | 1736-819 |
+| James Watt | Steam power | 1736-1819 |
 | Sake Dean Mahomet | first **Curry House** in London and **Shampooing** (Indian head massage) | 1759-1851 |
-| Admiral Nelson | wins **Battle of Trafalgar Square** but dies in it | 1805 | 
+| Admiral Nelson | wins the **Battle of Trafalgar** at sea but dies in it. Trafalgar Square in London is named after it | 1805 | 
 | Queen Victoria | Victorian period, biggest empire | 1837-1901 |
 | Isambard Kingdom Brunel | engineer started Great Western Railways and built bridges | 1806-59 |
-| Florence Nightingale | **nurse** in Crimean Wars started nursery school in London | 1820-1910 |
-| Emmeline Pakhurst | **suffragettes**, movement for right to vote to women, in 1918 women of 30 could vote and go to parliament,  in1928 women could vote at 21 like men | 1858-928 |
+| Florence Nightingale | **nurse** in the Crimean War. Started the Nightingale Training School for nurses at St Thomas' Hospital in London | 1820-1910 |
+| Emmeline Pankhurst | **suffragettes**, movement for the right to vote for women. In 1918 women of 30 could vote and go to parliament. In 1928 women could vote at 21, like men | 1858-1928 |
 | Rudyard Kipling | write poems about India and UK, British Empire is a force for good, wrote **The Jungle Book** | 1865-1936 |
 | Winston Churchill | Conservative MP and then PM during the war, lost general election in 1945, but returned as PM in 1951  | 1874-1965 |
 | Alexander Fleming | discovers **penicillin** nobel prize in 1945 | 1881-1955 |
 | Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | 1883-1967 |
-| William Beveridge | Social insurance and Allied Services, **The Beveridge Report** | 1879-1963 |
-| R. A. Butler |*The Butler Act*, free secondary education | 1902-82 |
+| William Beveridge | **The Beveridge Report** (1942), Social Insurance and Allied Services, basis of the welfare state | 1879-1963 |
+| R. A. Butler | *The Butler Act* (1944), free secondary education in England and Wales | 1902-82 |
 | Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
 | John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
 | Sir Rober Watson-Watt | develops **radar** 1935 | 1892-1973 |
@@ -156,11 +163,11 @@ Life in the United Kingdom (3rd edition)
 | Sir Frank Whittle | developed **jet engine** in 1930 | 1907-96 |
 | Sir Christopher Cockerell | invented **hovercraft** 1950s | 
 | James Goodfellow | invented cash-dispensing **ATM** (automatic-teller machine) | 1937- |
-| Sir Robert Edwards and Patrick Steptoe | invented **IVS (in-vitro fertilisation)** | 
-| Sir Ian Wilmot and Keith Campbell | led the team the achieved **cloning** of sheep Dolly | 1944-,1954-2012 |
+| Sir Robert Edwards and Patrick Steptoe | invented **IVF (in-vitro fertilisation)** | 
+| Sir Ian Wilmut and Keith Campbell | led the team that achieved **cloning** of sheep Dolly | 1944-2023, 1954-2012 |
 | Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
-| Mary Peters | from Manchester won a pentathlon Olympic medal in 1972, supports Northen Ireland | 1939- |
+| Mary Peters | born in Manchester, moved to Northern Ireland as a child, won pentathlon Olympic gold in 1972 | 1939- |
 | Margaret Thatcher | Conservative MP in 1959, became first woman PM in 1979, worked close with Ronald Regan and helped end Cold War | 1925-2013 |
 | Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
 | James Cook | maps the coast of Australia |
@@ -175,15 +182,15 @@ Life in the United Kingdom (3rd edition)
 | Sir Jackie Stewart | scottish racing driver won Formula 1 3 times |
 | Bobby Moore | captain the English football team winning the 1966 world cup |
 | Sir Ian Botham | capitan of English Cricket team and winner of cricket records |
-| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at Olympics in 1984 |in 5 consecutive Olympics |
+| Jayne Torvill and Christopher Dean | won gold medal in ice dancing at the 1984 Olympics |
 | Sir Steve Redgrave | won gold medals in rowing in 5 consecutive Olympics |
 | Baroness Tanni Grey-Thompson | wheelchair records, 11 gold medals |
 | Dame Kelly Holmes | won 2 gold medals for running in 2004 Olympics |
-| Dame Ellen MacArthur | yachtswoman fastest person to sail around the world in 2014 |
+| Dame Ellen MacArthur | yachtswoman, fastest person to sail single-handed around the world in 2004 |
 | Sir Chris Hoy | Scottish cyclist that won 6 gold and 1 silver Olympic medals and 11 world championships |
 | David Weir | Paralympian with wheelchair has won 6 gold medals and London marathon 6 times |
-| Sir Bradley Wiggings | cyclist, first briton to win the tour de france in 2012, won 7 olympic medals including golds in 2004,2008 and 2012 |
-| Mo Farah | won gold medals in 2012 Olympics , first briton to win a medal in 10,000 metres |
+| Sir Bradley Wiggins | cyclist, first Briton to win the Tour de France in 2012, won 7 Olympic medals including golds in 2004, 2008 and 2012 |
+| Mo Farah | won gold medals in the 5,000 and 10,000 metres at the 2012 Olympics |
 | Jessica Ennis | won 2012 Olympic heptathlon |
 | Andy Murray | Scottish tennis player won men's singles in US open in 2012, he won gold and silver medals at the Olympics |
 | Ellie Simmonds | Paralympian won gold medals for swimming at 2008 and 2012 Paralympic Games, was the youngest member at the 2008 Games |
@@ -191,7 +198,7 @@ Life in the United Kingdom (3rd edition)
 | Sir Robin Knox-Johnston | first person to sail single-handed around the world without stopping |
 | Damon Hill | won the Formula 1 World Championship |
 | Lewis Hamilton | won the Formula 1 World Championship |
-| Jensen Button | won the Formula 1 World Championship |
+| Jenson Button | won the Formula 1 World Championship |
 
 ### Sport facts ###
 * The UK has hosted the Olympic Games on three occasions: **1908, 1948 and 2012** 
@@ -258,11 +265,11 @@ Life in the United Kingdom (3rd edition)
 | Seamus Heaney | poet, Nobel prize |
 | Harold Pinter | playwright, Nobel prize |
 | Agatha Christie | wrote detective stories |
-| Ian Fleming | stories that introduce James Bond 2003 |
-| J.R.R. Tolkien | *The Lord of the Rings*  the country's best loved novel |
+| Ian Fleming | wrote the James Bond stories, starting in the 1950s |
+| J.R.R. Tolkien | *The Lord of the Rings*, voted the country's best-loved novel in 2003 |
 | Jane Austen | English novelist. *Pride and Prejudice* and *Sense and Sensibility* |
 | Charles Dickens | wrote very famous novels like *Oliver Twist* and *Great Expectations* | 
-| Robert Luis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
+| Robert Louis Stevenson | books like *Treasure Island*, *Kidnapped* and *Dr Jekyll and Mr Hyde* |
 | Thomas Hardy | author and poet, known for *Far from the Madding Crowd* and *Jude the Obscure* |
 | Sir Arthur Conan Doyle | Scottish doctor and writer best know for stories about *Sherlock Holmes* |
 | Evelyn Waugh | wrote satirical novels including *Decline and Fall* and *Scoop*, *Brideshead Revisited* |
@@ -273,8 +280,8 @@ Life in the United Kingdom (3rd edition)
 | Hilary Mantel | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | Julian Barnes | winner of Man Booker Prize for Fiction, best fiction novel in the Commonwealth Ireland or Zimbabwe |
 | - | *BeoWulf* Anglo-Saxon poem |
-| Geoffery Caucher | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
-| John Milton | protestant poems inspired by religious views, *Paradise is Lost* |
+| Geoffrey Chaucer | Wrote poems called the *Canterbury Tales*, telling of Pilgrims that went from London to Canterbury |
+| John Milton | protestant poems inspired by religious views, *Paradise Lost* |
 | William Shakespeare | playwright and actor and wrote poems and plays (sonnets, poems of 14 lines) |
 | William Wordsworth | poet inspired by nature, *The Daffodils* |
 | Sir Walter Scott | poems inspired by Scotland |
@@ -282,12 +289,12 @@ Life in the United Kingdom (3rd edition)
 | Lord Byron | *She Walks in Beauty* |
 | William Blake | *The Tyger* |
 | Wilfred Owen | *Anthem for Doomed Youth*, also wrote about his experiences during the war |
-| Sigfried Sassoon | wrote about his experiences during the war |
+| Siegfried Sassoon | wrote about his experiences during the war |
 | John Barbour | scottish poet |
 
 ### Literature Facts ###
 
-* in 2003 JRR Tolkien's *Lords of the Rings* is voted country's most loved novel
+* in 2003 JRR Tolkien's *The Lord of the Rings* is voted the country's most loved novel
 
 ### Cinema ###
 
@@ -308,7 +315,7 @@ Life in the United Kingdom (3rd edition)
 | Roland Joffe | directed *The Killing Fields* |
 | Mike Newell | directed *Four Weddings and a Funeral* |
 | Kevin MacDonald | directed *Touching the void* |
-| Nik Park | *Wallace and Gromit* animated movies |
+| Nick Park | *Wallace and Gromit* animated movies |
 
 ### Cinema facts ###
 * Recent British actors to have won Oscars include Colin Firth, Sir Anthony Hopkins, Dame Judi Dench, Kate Winslet and Tilda Swinton.
@@ -318,13 +325,14 @@ Life in the United Kingdom (3rd edition)
 
 | Proportion | Religion | Details |
 | --- | --- | --- |
-| 59%  | Christian |
-| 4.8%    | Muslim | Eid al-Fitr(end of Ramadan) and Eid ul Adha(remembers that prophet Ibrahim was willing to sacrifice his son) are festivals celebrated by Islam |
-| 1.5%    | Hindu | celebrates Diwali |
-| 0.8%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
-| <0.5% | Jews/Buddhist | Hannuka is a Jewish celebration in November or December and lasts 8 days |
+| 70%  | Christian | 2009 Citizenship Survey, the figures the test uses |
+| 4%    | Muslim | Eid al-Fitr (end of Ramadan) and Eid ul Adha (remembers that prophet Ibrahim was willing to sacrifice his son) |
+| 2%    | Hindu | celebrates Diwali |
+| 1%    | Sikh | Vaisakhi festival celebrated on 14th of April, also celebrates Diwali |
+| <0.5% | Jewish | Hanukkah is a Jewish celebration in November or December and lasts 8 days |
+| <0.5% | Buddhist | |
 | 2%    | Other |
-| 25%  | No religion |
+| 21%  | No religion |
 
 ### Religion facts ###
 
@@ -359,9 +367,9 @@ Life in the United Kingdom (3rd edition)
 
 | Name |  Characteristic |
 | --- | --- |
-| Vinolandia | part of Hadrian Wall |
+| Vindolanda | Roman fort near Hadrian's Wall |
 | Housesteads | part of Hadrian Wall |
-| Bodant Gardens | Wales |
+| Bodnant Garden | Wales |
 | Millennium Stadium | Cardiff | 
 | Maiden Castle | Dorset - Iron Age hill fort |
 | York Minster | has windows of stained glass about Bible and Christian saints |
@@ -374,7 +382,7 @@ Life in the United Kingdom (3rd edition)
 * It takes about **1 hour** to donate blood
 * MOT for cars older than **3 years**
 * Mothering Sunday (or Mother’s Day) is the Sunday three weeks before Easter. 
-* The Queen is the ceremonial head of the Commonwealth, which currently has **54** member states.
+* The King is the ceremonial head of the Commonwealth, which currently has **54** member states.
 *  The UN has 190 member states
 * The currency in the UK is the pound sterling (symbol £). There are 100 pence in a pound. The denominations (values) of currency are:
     * coins: 1p, 2p, 5p, 10p, 20p, 50p, £1 and £2
@@ -413,7 +421,7 @@ Devolved administrations
 
 | Name | Creation | Members | NMembers | Details |
 | --- | --- | --- | --- | --- |
-| National Assembly of Wales | | Sennedd Members (SMs) | 60 | elections every 4 years, building is Senedd |
+| Senedd (Welsh Parliament) | | Senedd Members (SMs) | 60 | elections every 4 years, building is the Senedd |
 | Scottish Parliament | 1999 | Members of the Scottish Parliament (MSPs) | 129 | |
 | Northern Ireland Parliament | 1922 |  | | Abolished in 1972 |
 | Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | |
@@ -441,8 +449,8 @@ Devolved administrations
 
 ## Judiciary and Courts ##
 
-* Police and Crime Commissioners (PCCs) first elected by public in England and Wales in 2015.
-* Small Claims Procedure - England and wales for values up to £10000 and Northern Ireland and Scotland are £5000. Minor disputes without spending lots of time and money - no solicitors. Judge with both parties in a small room or online at moneyclaim.gov.uk
+* Police and Crime Commissioners (PCCs) were first elected by the public in England and Wales in November 2012.
+* Small claims procedure - less than £10,000 in England and Wales, and £5,000 in Scotland and Northern Ireland. Minor disputes without spending lots of time and money, no solicitors. Judge with both parties in a small room, or online at moneyclaim.gov.uk
 
 | Type of Courts | Severity | England, Wales and Northern Ireland | Scotland |
 | --- | --- | --- | --- |
@@ -451,7 +459,7 @@ Devolved administrations
 | Criminal | Murders | | High Court |
 | Civil | Minor | County Court |  Sheriff Court |
 | Civil | Major | High Court | Court of Session in Edinburgh |
-| Youth | | Youth Court - 3 Trained Magistrates and 1 District Judge, no media or public | Childrens Hearing System | 
+| Youth | | Youth Court - up to 3 specially trained magistrates or 1 District Judge. No public or media | Children's Hearing System | 
 | Youth | Serious | Crown Court | |
 
 
