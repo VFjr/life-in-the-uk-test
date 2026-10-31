@@ -129,55 +129,55 @@ Life in the United Kingdom (3rd edition)
 | Henry VIII | 6 wives (Catherine of Aragon, Anne Boleyn, Jane Seymour, Anne of Cleves, Catherine Howard, Catherine Parr) | 1509-47 |
 | Edward VI | strongly protestant, "Book of Common Prayer" | - |
 | Bloody Mary | daughter of Catherine of Aragon |
-| Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism | -1603 |
+| Elizabeth I | daughter of Anne Boleyn, defeats **Spanish Armada**, promotes patriotism | - |
 | Sir Francis Drake | big role defeating the Spanish Armada, his Golden Hind is one of the first to circumnavigate earth | - |
-| William Shakespeare | born in Stratford-upon-Avon was a playwright and actor and wrote poems and plays | 1564-1616 |
+| William Shakespeare | born in Stratford-upon-Avon was a playwright and actor and wrote poems and plays | - |
 | Mary Stuart | a week old when she became queen, went to England and remain in prison for 20 years and then executed | - |
 | James I | of England Wales and Ireland, was VI of Scotland | - |
 | Charles I | starts Civil War with Parliament loses and gets executed | - |
-| Oliver Cromwell | Lord Protector during 11 years of Republic | -1658 |
-| Charles II | comes back to be king, interested in science forms Royal Society | -1685 |
+| Oliver Cromwell | Lord Protector during 11 years of Republic | - |
+| Charles II | comes back to be king, interested in science forms Royal Society | - |
 | Sir Edmund Halley | member of Royal Society, predicts the return of the Halley's Comet | - |
-| Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | 1643-1727 |
+| Isaac Newton | studied at Cambridge, work on Philosophiae Naturalis Principia Mathematica | - |
 | James II | brother of Charles II, he is VII of Scotland, favours Catholics | - |
 | William of Orange | husband of Mary, elder daughter of James II, invades England in 1688, defeats James II at the Battle of the Boyne, Bill of Rights | - |
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
-| Robert Burns | scottish poet writes Auld Lang Syne. **Burns Night** is 25 January | 1759-96 |
-| Richard Arkwright | efficient running factories | 1731-92 |
-| James Watt | Steam power | 1736-1819 |
-| Sake Dean Mahomet | first **Curry House** in London and **Shampooing** (Indian head massage) | 1759-1851 |
+| Robert Burns | scottish poet writes Auld Lang Syne. **Burns Night** is 25 January | - |
+| Richard Arkwright | efficient running factories | - |
+| James Watt | Steam power | - |
+| Sake Dean Mahomet | first **Curry House** in London and **Shampooing** (Indian head massage) | - |
 | Admiral Nelson | wins the **Battle of Trafalgar** at sea but dies in it. Trafalgar Square in London is named after it | 1805 | 
 | Queen Victoria | Victorian period, biggest empire | 1837-1901 |
-| Isambard Kingdom Brunel | engineer started Great Western Railways and built bridges | 1806-59 |
-| Florence Nightingale | **nurse** in the Crimean War. Started the Nightingale Training School for nurses at St Thomas' Hospital in London | 1820-1910 |
-| Emmeline Pankhurst | **suffragettes**, movement for the right to vote for women. In 1918 women of 30 could vote and go to parliament. In 1928 women could vote at 21, like men | 1858-1928 |
-| Rudyard Kipling | write poems about India and UK, British Empire is a force for good, wrote **The Jungle Book** | 1865-1936 |
-| Winston Churchill | Conservative MP and then PM during the war, lost general election in 1945, but returned as PM in 1951  | 1874-1965 |
-| Alexander Fleming | discovers **penicillin** nobel prize in 1945 | 1881-1955 |
-| Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | 1883-1967 |
-| William Beveridge | **The Beveridge Report** (1942). Five giant evils: Want, Disease, Ignorance, Squalor and Idleness | 1879-1963 |
-| R. A. Butler | *The Butler Act* (1944), free secondary education in England and Wales | 1902-82 |
-| Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
-| John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
-| Sir Robert Watson-Watt | develops **radar** 1935 | 1892-1973 |
-| Sir Bernard Lovell | astronomy discoveries and build a radio telescope at Jodrell Bank | 1913-2012 |
-| Alan Turing | **Turing Machine** | 1912-54 |
-| John Macleod | co-discoverer of **insulin** to treat diabetes | 1876-1935 |
-| Francis Crick | one of those awarded the Nobel prize for the discovery of the **structure of the DNA molecule**, in 1953 London and Cambridge universities | 1916-2014 |
-| Sir Frank Whittle | developed **jet engine** in 1930 | 1907-96 |
+| Isambard Kingdom Brunel | engineer started Great Western Railways and built bridges | - |
+| Florence Nightingale | **nurse** in the Crimean War. Started the Nightingale Training School for nurses at St Thomas' Hospital in London | - |
+| Emmeline Pankhurst | **suffragettes**, movement for the right to vote for women. In 1918 women of 30 could vote and go to parliament. In 1928 women could vote at 21, like men | - |
+| Rudyard Kipling | write poems about India and UK, British Empire is a force for good, wrote **The Jungle Book** | - |
+| Winston Churchill | Conservative MP and then PM during the war, lost general election in 1945, but returned as PM in 1951 | - |
+| Alexander Fleming | discovers **penicillin** nobel prize in 1945 | - |
+| Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | - |
+| William Beveridge | **The Beveridge Report** (1942). Five giant evils: Want, Disease, Ignorance, Squalor and Idleness | - |
+| R. A. Butler | *The Butler Act* (1944), free secondary education in England and Wales | - |
+| Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | - |
+| John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | - |
+| Sir Robert Watson-Watt | develops **radar** 1935 | - |
+| Sir Bernard Lovell | astronomy discoveries and build a radio telescope at Jodrell Bank | - |
+| Alan Turing | **Turing Machine** | - |
+| John Macleod | co-discoverer of **insulin** to treat diabetes | - |
+| Francis Crick | one of those awarded the Nobel prize for the discovery of the **structure of the DNA molecule**, in 1953 London and Cambridge universities | - |
+| Sir Frank Whittle | developed **jet engine** in 1930 | - |
 | Sir Christopher Cockerell | invented **hovercraft** 1950s | 
-| James Goodfellow | invented cash-dispensing **ATM** (automatic-teller machine) | 1937- |
+| James Goodfellow | invented cash-dispensing **ATM** (automatic-teller machine) | - |
 | Sir Robert Edwards and Patrick Steptoe | invented **IVF (in-vitro fertilisation)** | 
-| Sir Ian Wilmut and Keith Campbell | led the team that achieved **cloning** of sheep Dolly | 1944-2023, 1954-2012 |
-| Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
-| Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
-| Mary Peters | born in Manchester, moved to Northern Ireland as a child, won pentathlon Olympic gold in 1972 | 1939- |
-| Margaret Thatcher | first woman PM, Conservative, **1979-90**. Privatised state industries, limited trade unions, worked with Ronald Reagan. Falklands 1982 | 1925-2013 |
-| John Major | Conservative PM after Thatcher (1990-97). Helped start the Northern Ireland peace process | 1943- |
+| Sir Ian Wilmut and Keith Campbell | led the team that achieved **cloning** of sheep Dolly | - |
+| Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | - |
+| Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | - |
+| Mary Peters | born in Manchester, moved to Northern Ireland as a child, won pentathlon Olympic gold in 1972 | - |
+| Margaret Thatcher | first woman PM, Conservative, **1979-90**. Privatised state industries, limited trade unions, worked with Ronald Reagan. Falklands 1982 | - |
+| John Major | Conservative PM after Thatcher (1990-97). Helped start the Northern Ireland peace process | - |
 | Gordon Brown | Labour PM after Tony Blair | 2007-10 |
-| Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
+| Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | - |
 | James Cook | maps the coast of Australia |
 | George and Robert Stephenson | pioneered the railway engine |
 | St Columba | founded a monastery in the island of Iona off the coast of Scotland |
