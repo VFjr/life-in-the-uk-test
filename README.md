@@ -61,7 +61,8 @@ Life in the United Kingdom (3rd edition)
 | _1899-1902_   | Boer Wars | South Africa with Netherlands |
 | 1896                | first public screening of movies | |
 | 1902                | Motor-car racing in the UK started |
-| 1914-18          | WW1 | assassination of Austrian Archduke Franz Ferdinand |
+| 1914-18          | WW1 | started after the assassination of Archduke Franz Ferdinand. Britain entered because Germany invaded Belgium |
+| 1916                | Battle of the Somme | |
 | 1918                | end of WW1 at 11am on 11 November | Remembrance Day silence is at 11am. Women over 30 can also vote |
 | 1922                | Ireland becomes 2 countries / BBC radio | Northern Ireland is 6 counties and stays in the UK. The rest is the Irish Free State |
 | 1928                | women can vote at the same age of men, 21 |
@@ -74,7 +75,7 @@ Life in the United Kingdom (3rd edition)
 | 1940                | Dunkirk | evacuation of about 300,000 British and French troops as France falls. The "Dunkirk spirit" |
 | 1940                | Battle of Britain | RAF defeats the German air force and prevents an invasion |
 | 1940                | The Blitz | German bombing of British cities |
-| 1942                | Beveridge Report | Social Insurance and Allied Services, basis of the welfare state |
+| 1942                | Beveridge Report | Social Insurance and Allied Services. Five giant evils: Want, Disease, Ignorance, Squalor and Idleness |
 | 1944                | Butler Act | free secondary education in England and Wales |
 | 1944                | D-Day | Allies in Normandy to attack Germans |
 | 1945                | end of WW2 | German defeat, atom bomb in Japan|
@@ -88,11 +89,15 @@ Life in the United Kingdom (3rd edition)
 | 1969                | The Troubles | in Northen Ireland, , 3000 people died those years, women and men can vote at 18 |
 | 1972                | Northen Ireland parliament was suspended | |
 | 1973                | UK joins EEC | |
+| 1979-90            | Margaret Thatcher | first woman PM. Privatised state industries and limited trade-union powers |
+| 1982                | Falklands | Argentina invaded. A British task force took the islands back |
 | 1990                | WWW | Sir Tim Berners-Lee | 
 | 1990                | UK wars | help liberate from Iraqi invasion of Kuwait and Former Republic of Yugoslavia |
 | 1990-97            | John Major | Conservative PM after Margaret Thatcher. Helped start the Northern Ireland peace process |
 | 1997                | Tony Blair | Labour government, creates Scottish Parliament and Welsh Assembly |
+| 1998                | Good Friday Agreement | peace agreement for Northern Ireland |
 | 1999                | Scottish Parliament. Hereditary peers lost automatic right to attend the House of Lords, they now elect a few of their memebers. | |
+| 2007                | Gordon Brown | becomes Prime Minister after Tony Blair |
 | 2009                | Britain leaves Iraq | |
 | 2010                | no party won the election | Conservative and Liberal Democrat parties formed a coalition led by David Cameron |
 | 2016                | Brexit Referendum | 23 June |
@@ -139,7 +144,7 @@ Life in the United Kingdom (3rd edition)
 | George I | a german becomes king | 1714- |
 | Robert Walpole | **first prime minister** under George I | 1721-42 |
 | Charles Edward Stuart | Prince Bonnie Charlie grandson of James II tries to get back the throne from George II but loses | - |
-| Robert Burns | scottish poet writes Auld Lang Syne (sang for new year) | 1759-96 |
+| Robert Burns | scottish poet writes Auld Lang Syne. **Burns Night** is 25 January | 1759-96 |
 | Richard Arkwright | efficient running factories | 1731-92 |
 | James Watt | Steam power | 1736-1819 |
 | Sake Dean Mahomet | first **Curry House** in London and **Shampooing** (Indian head massage) | 1759-1851 |
@@ -152,7 +157,7 @@ Life in the United Kingdom (3rd edition)
 | Winston Churchill | Conservative MP and then PM during the war, lost general election in 1945, but returned as PM in 1951  | 1874-1965 |
 | Alexander Fleming | discovers **penicillin** nobel prize in 1945 | 1881-1955 |
 | Clement Attlee | PM of Labour government after war, nationalisation of industries and strong welfare | 1883-1967 |
-| William Beveridge | **The Beveridge Report** (1942), Social Insurance and Allied Services, basis of the welfare state | 1879-1963 |
+| William Beveridge | **The Beveridge Report** (1942). Five giant evils: Want, Disease, Ignorance, Squalor and Idleness | 1879-1963 |
 | R. A. Butler | *The Butler Act* (1944), free secondary education in England and Wales | 1902-82 |
 | Dylan Thomas | welsh poet, *Under Milk Wood*and *Do Not Go Gentle into That Good Night* | 1914-53 |
 | John Logie Baird | scotsman to develop **TV** in 1920 and first broadcast London to Glasgow in 1932 | 1888-1946 |
@@ -169,8 +174,9 @@ Life in the United Kingdom (3rd edition)
 | Sir Peter Mansfield | co-inventor of **MRI (magnetic resonance imaging)** scanner | 1933- |
 | Sir Tim Berners-Lee | invented **World Wide Web** in 1990 | 1955- |
 | Mary Peters | born in Manchester, moved to Northern Ireland as a child, won pentathlon Olympic gold in 1972 | 1939- |
-| Margaret Thatcher | Conservative MP in 1959, became first woman PM in 1979, worked close with Ronald Regan and helped end Cold War | 1925-2013 |
+| Margaret Thatcher | first woman PM, Conservative, **1979-90**. Privatised state industries, limited trade unions, worked with Ronald Reagan. Falklands 1982 | 1925-2013 |
 | John Major | Conservative PM after Thatcher (1990-97). Helped start the Northern Ireland peace process | 1943- |
+| Gordon Brown | Labour PM after Tony Blair | 2007-10 |
 | Roald Dahl | born in Wales from Norwegians wrote *Charlie and the Chocolate Factory* and *George's Marvellous Medicine* | 1916-90 |
 | James Cook | maps the coast of Australia |
 | George and Robert Stephenson | pioneered the railway engine |
@@ -350,6 +356,12 @@ Life in the United Kingdom (3rd edition)
 | England | 84% | 23rd April | St George | Rose | roast beef (served with potatoes, vegetables), Yorkshire puddings, fish and chips, fish and chips | London |
 | Scotland | 8% | 30th November | St Andrew | Thisle | haggis (sheep's stomach stuffed with offal, suet, onions and oatmeal) | Edinburg |
 
+### Festivals ###
+
+* **Burns Night** is 25 January
+* The **Edinburgh Festival** and the **Military Tattoo** are in August
+* **Notting Hill Carnival** is in London in the summer
+
 ### Numbers ###
 
 | Period | Population | 
@@ -428,9 +440,13 @@ Devolved administrations
 | Northern Ireland Parliament | 1922 |  | | Abolished in 1972 |
 | Northern Ireland Assembly | 1998 |  Members of the Legislative Assembly (MLAs) meet in the Northern Ireland Assembly at Stormont, Belfast | 90 | |
 
+* Westminster keeps defence, foreign affairs and immigration. Scotland, Wales and Northern Ireland decide matters such as health and education.
+
 ## Government and politics facts ##
 
 
+* The House of Commons has **650** elected MPs. A general election is at least every **5 years**, using **first past the post**: the candidate with the most votes wins.
+* The largest party not in government is the **Opposition**. Its senior MPs form the **shadow cabinet**.
 * Polling stations are open from **7am to 10pm**. Staff ask for your name and address. In Northern Ireland you will also have to show photographic identification. You then get your ballot paper, which you take to a polling booth to fill in privately
 * The Prime Minister appoints about **20** senior MPs to become ministers in charge of departments:  
     * **Chancellor of the Exchequer** – responsible for the economy
@@ -452,6 +468,8 @@ Devolved administrations
 ## Judiciary and Courts ##
 
 * Police and Crime Commissioners (PCCs) were first elected by the public in England and Wales in November 2012.
+* In Scotland a jury can also return a verdict of **not proven**.
+* The **Supreme Court** is the final court of appeal.
 * Small claims procedure - less than £10,000 in England and Wales, and £5,000 in Scotland and Northern Ireland. Minor disputes without spending lots of time and money, no solicitors. Judge with both parties in a small room, or online at moneyclaim.gov.uk
 
 | Type of Courts | Severity | England, Wales and Northern Ireland | Scotland |
